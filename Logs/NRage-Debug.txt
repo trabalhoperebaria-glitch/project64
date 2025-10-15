@@ -1,0 +1,20 @@
+*** DLL Attach (2.4.0.2-Debugbuild | built on Feb 24 2015 at 18:41:47)
+  (compiled in ANSI mode, language detection DISABLED.)
+CALLED: GetDllInfo
+*** DLL Detach
+---DEBUG FILE CLOSED---
+*** DLL Attach (2.4.0.2-Debugbuild | built on Feb 24 2015 at 18:41:47)
+  (compiled in ANSI mode, language detection DISABLED.)
+CALLED: GetDllInfo
+*** DLL Detach
+---DEBUG FILE CLOSED---
+*** DLL Attach (2.4.0.2-Debugbuild | built on Feb 24 2015 at 18:41:47)
+  (compiled in ANSI mode, language detection DISABLED.)
+CALLED: GetDllInfo
+*** DLL Detach
+---DEBUG FILE CLOSED---
+*** DLL Attach (2.4.0.2-Debugbuild | built on Feb 24 2015 at 18:41:47)
+  (compiled in ANSI mode, language detection DISABLED.)
+CALLED: GetDllInfo
+*** DLL Detach
+---DEBUG FILE CLOSED---
